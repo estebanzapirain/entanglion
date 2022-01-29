@@ -4,16 +4,17 @@
 
 **2 JUGADORES | 14 AÑOS Y MÁS| 45 MINUTOS**
 
-[Entanglion](http://ibm.biz/entanglion) espera tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una antigua computadora cuántica. [Entanglion](http://ibm.biz/entanglion) es un juego de mesa cooperativo diseñado para dos jugadores. Aprende sobre computación cuántica mientras trabajas junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico, evita ser detectado por los mecanismos de defensa que fueron dejados por los antiguos, y reconstruye la computadora cuántica.
+[Entanglion](http://ibm.biz/entanglion) espera tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una computadora cuántica ancestral. [Entanglion](http://ibm.biz/entanglion) es un juego de mesa cooperativo diseñado para dos jugadores. Aprende sobre computación cuántica mientras trabajas junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico, evita ser detectado por los mecanismos de defensa que fueron dejados por los ancestros, y reconstruye la computadora cuántica.
 
 ¿Crees que estás listo para el desafío?
 
 <img src="images/front.jpg" width="100%">
 
-## Welcome to the quantum universe, Captain!
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+## ¡Bienvenido al universo cuántico, Capitán!
+¡Felicitaciones, tu capitán se ha retirado y te ha dejado a cargo de su empresa de transporte galáctico! Es hora de hacer algunas mejoras.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+Por años, has estado obsesionado con rumores de una tecnología ancestral de computación cuántica que podría revolucionar el transporte de carga galáctico. ¡Si los rumores fueran ciertos, permitiría a tus naves calcular senderos en el hiperespacio en cuestión de segundos! Sólo hay un inconveniente: los ancestros desmantelaron su computadora cuántica por temor a que fuera demasiado poderosa, y dejaron los componentes desparramados entre los planetas de la fuertemente vigilada galaxia Entanglion.
+
 
 If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
 
