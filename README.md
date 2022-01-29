@@ -1,12 +1,12 @@
 # Entanglion
 
-> A game by IBM Research
+> Un juego de IBM Research
 
-**2 PLAYERS | AGES 14 & UP | 45 MINUTES**
+**2 JUGADORES | 14 AÑOS Y MÁS| 45 MINUTOS**
 
-[Entanglion](http://ibm.biz/entanglion) awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer. [Entanglion](http://ibm.biz/entanglion) is a cooperative board game designed for two players. Learn about quantum computing as you work together with your teammate to navigate the three galaxies of the quantum universe, avoid detection by the defense mechanisms left behind by the ancients, and rebuild the quantum computer.
+[Entanglion](http://ibm.biz/entanglion) espera tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una antigua computadora cuántica. [Entanglion](http://ibm.biz/entanglion) es un juego de mesa cooperativo diseñado para dos jugadores. Aprende sobre computación cuántica mientras trabajas junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico, evita ser detectado por los mecanismos de defensa que fueron dejados por los antiguos, y reconstruye la computadora cuántica.
 
-Think you’re up for the challenge?
+¿Crees que estás listo para el desafío?
 
 <img src="images/front.jpg" width="100%">
 
