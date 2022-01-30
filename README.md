@@ -15,10 +15,9 @@
 
 Por años, has estado obsesionado con rumores de una tecnología ancestral de computación cuántica que podría revolucionar el transporte de carga galáctico. ¡Si los rumores fueran ciertos, permitiría a tus naves calcular senderos en el hiperespacio en cuestión de segundos! Sólo hay un inconveniente: los ancestros desmantelaron su computadora cuántica por temor a que fuera demasiado poderosa, y dejaron los componentes desparramados entre los planetas de la fuertemente vigilada galaxia Entanglion.
 
+Si quieres reconstruir esta increíble tecnología, tendrás que navegar tus naves a través de la galaxia Entanglion y evitar las defensas dejadas atrás por los ancestros. Las buenas noticias son que tu antiguo capitán te dejó suficiente dinero para equipar tus naves con los motores potenciados cuánticamente que necesitarás para ingresar a Entanglion. Las malas noticias son que, sin una computadora cuántica para guiarlos, estos motores pueden ser un poco... impredecibles.
 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
-
-Want to hear more? Read the full Entanglion backstory, [The Mysterious Fate of the Quantics](game/Backstory.md).
+¿Quieres saber más? Lee la historia completa detrás de Entanglion, [El Misterioso Destino de los Cuánticos](game/Backstory.md).
 
 ## Obtaining Entanglion
 Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets. Alternatively, you can purchase a boxed copy of Entanglion at The Game Crafter.
