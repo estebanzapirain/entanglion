@@ -2,7 +2,7 @@
 
 > Un juego de IBM Research
 
-**2 JUGADORES | 14 AÑOS Y MÁS| 45 MINUTOS**
+**2 JUGADORES | 14 AÑOS Y MÁS | 45 MINUTOS**
 
 [Entanglion](http://ibm.biz/entanglion) espera tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una computadora cuántica ancestral. [Entanglion](http://ibm.biz/entanglion) es un juego de mesa cooperativo diseñado para dos jugadores. Aprende sobre computación cuántica mientras trabajas junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico, evita ser detectado por los mecanismos de defensa que fueron dejados por los ancestros, y reconstruye la computadora cuántica.
 
@@ -24,7 +24,7 @@ Entanglion es un proyecto de código abierto y tú puedes hacer tu propia copia 
 
 🚀 **[Descarga la Guía de Impresión y Ensamble de Entanglion](recursos)**
 
-💰 **[Comorar Entanglion en The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
+💰 **[Comprar Entanglion en The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
 
 <img src="images/board.png" width="85%" />
 
@@ -32,7 +32,7 @@ Entanglion es un proyecto de código abierto y tú puedes hacer tu propia copia 
 Por favor lee el [libro de reglas](game) para comprender cómo jugar a Entanglion. La versión online del libro de reglas debería ser considerada autoritaria, y documentaremos cualquier error que encontremos en la guía impresa en dicha página.
 
 ## Enseñando con Entanglion
-Si eres un educador que querría utilizar Entanglion como parte de un currículum de aprendizaje, por favor [contáctate con nosotros](mail to:entanglion@us.ibm.com). Nos encantaría escuchar acerca de tus planes para Entanglion y podríamos apoyar tus esfuerzos.
+Si eres un educador que querría utilizar Entanglion como parte de un currículum de aprendizaje, por favor [contáctate con nosotros](mailto:entanglion@us.ibm.com). Nos encantaría escuchar acerca de tus planes para Entanglion y podríamos apoyar tus esfuerzos.
 
 ## Expandiendo Entanglion
 Entanglion es un proyecto de código abierto desarrollado por IBM Research para enseñar a los jugadores acerca de computación cuántica. Aceptamos con agrado contribuciones de parte de la comunidad para modificar y extender el juego. Si quisieras desarrollar una expansión para Entanglion, por favor mira nuestra [guía de expansión](expansions).
