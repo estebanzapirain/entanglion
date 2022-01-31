@@ -4,7 +4,7 @@
 
 **2 JUGADORES | 14 AÑOS Y MÁS | 45 MINUTOS**
 
-[Entanglion](http://ibm.biz/entanglion) espera tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una computadora cuántica ancestral. [Entanglion](http://ibm.biz/entanglion) es un juego de mesa cooperativo diseñado para dos jugadores. Aprende sobre computación cuántica mientras trabajas junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico, evita ser detectado por los mecanismos de defensa que fueron dejados por los ancestros, y reconstruye la computadora cuántica.
+[Entanglion](http://ibm.biz/entanglion) desafía tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una computadora cuántica ancestral. [Entanglion](http://ibm.biz/entanglion) es un juego de mesa cooperativo diseñado para dos jugadores. Aprende sobre computación cuántica mientras trabajas junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico, evita ser detectado por los mecanismos de defensa que fueron dejados por los ancestros, y reconstruye la computadora cuántica.
 
 ¿Crees que estás listo para el desafío?
 
