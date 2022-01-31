@@ -19,26 +19,26 @@ Si quieres reconstruir esta increíble tecnología, tendrás que navegar tus nav
 
 ¿Quieres saber más? Lee la historia completa detrás de Entanglion, [El Misterioso Destino de los Cuánticos](game/Backstory.md).
 
-## Obtaining Entanglion
-Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets. Alternatively, you can purchase a boxed copy of Entanglion at The Game Crafter.
+## Obteniendo Entanglion
+Entanglion es un proyecto de código abierto y tú puedes hacer tu propia copia del juego descargando e imprimiendo los recursos. Alternativamente, puedes adquirir una copia en caja de Entanglion en The Game Crafter.
 
-🚀 **[Download the Entanglion Printing & Assembly guide](assets)**
+🚀 **[Descarga la Guía de Impresión y Ensamble de Entanglion](recursos)**
 
-💰 **[Purchase Entanglion at The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
+💰 **[Comorar Entanglion en The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
 
 <img src="images/board.png" width="85%" />
 
-## Playing Entanglion
-Please read through the [rule book](game) to understand how to play Entanglion. The online version of the rule book should be considered authoritative, and we will document any errata we find in the printed guide on that page.
+## Jugando a Entanglion
+Por favor lee el [libro de reglas](game) para comprender cómo jugar a Entanglion. La versión online del libro de reglas debería ser considerada autoritaria, y documentaremos cualquier error que encontremos en la guía impresa en dicha página.
 
-## Teaching Entanglion
-If you are an educator who would like to use Entanglion as part of a learning curriculum, please [reach out to us](mailto:entanglion@us.ibm.com). We would love to hear about your plans for Entanglion and we may be able to support your efforts.
+## Enseñando con Entanglion
+Si eres un educador que querría utilizar Entanglion como parte de un currículum de aprendizaje, por favor [contáctate con nosotros](mail to:entanglion@us.ibm.com). Nos encantaría escuchar acerca de tus planes para Entanglion y podríamos apoyar tus esfuerzos.
 
-## Expanding Entanglion
-Entanglion is an open-source project developed by IBM Research to teach players about quantum computing. We welcome community contributions to modify and extend gameplay. If you would like to develop an expansion to Entanglion, please check out our [expansion guide](expansions).
+## Expandiendo Entanglion
+Entanglion es un proyecto de código abierto desarrollado por IBM Research para enseñar a los jugadores acerca de computación cuántica. Aceptamos con agrado contribuciones de parte de la comunidad para modificar y extender el juego. Si quisieras desarrollar una expansión para Entanglion, por favor mira nuestra [guía de expansión](expansions).
 
-## Citing Entanglion
-If you wish to cite Entanglion in academic work, please use the following citation.
+## Citando Entanglion
+Si deseas citar Entanglion en un trabajo académico, por favor utiliza la siguiente citación.
 
 > Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
 
@@ -62,12 +62,12 @@ If you wish to cite Entanglion in academic work, please use the following citati
 } 
 ```
 
-# Contributors
-Entanglion was designed by IBM Research in New York.
+# Contribuidores
+Entanglion fue diseñado por IBM Research en New York.
 
-**Design**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)<br />
-**Illustration**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)<br />
-**Quantum Science**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
+**Diseño**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)<br />
+**Ilustración**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)<br />
+**Ciencia Cuántica**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
 
-# License
+# Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
