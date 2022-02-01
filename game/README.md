@@ -1,60 +1,58 @@
-# Entanglion Rule Book
+# Libro de Reglas de Entanglion
 
-> A game by IBM Research
+> Un juego de IBM Research
 
-**2 PLAYERS | AGES 14 & UP | ~45 MINUTES**
+**2 JUGADORES | 14 AÑOS Y MÁS | 45 MINUTOS**
 
-Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.
+Entanglion desafía tus habilidades de navegación espacial y planificación estratégica para explorar una nueva galaxia y reconstruir una computadora cuántica ancestral.
 
 http://ibm.biz/entanglion
 
-> 🤔 Confused about a rule? Please take a look at the [errata](Errata.md) for rule clarifications and game updates.
+> 🤔 ¿Confundido acerca de una regla? Por favor mira la [errata](Errata.md) para clarificación de reglas y actualizaciones del juego.
 
-# Welcome to the quantum universe, Captain!
+# ¡Bienvenido al universo cuántico, Capitán!
 
 <img src="../images/bg.png" width="100%">
 
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+¡Felicitaciones, tu capitán se ha retirado y te ha dejado a cargo de su empresa de transporte galáctico! Es hora de hacer algunas mejoras.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+Por años, has estado obsesionado con rumores de una tecnología ancestral de computación cuántica que podría revolucionar el transporte de carga galáctico. ¡Si los rumores fueran ciertos, permitiría a tus naves calcular senderos en el hiperespacio en cuestión de segundos! Sólo hay un inconveniente: los ancestros desmantelaron su computadora cuántica por temor a que fuera demasiado poderosa, y dejaron los componentes desparramados entre los planetas de la fuertemente vigilada galaxia Entanglion.
 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
+Si quieres reconstruir esta increíble tecnología, tendrás que navegar tus naves a través de la galaxia Entanglion y evitar las defensas dejadas atrás por los ancestros. Las buenas noticias son que tu antiguo capitán te dejó suficiente dinero para equipar tus naves con los motores potenciados cuánticamente que necesitarás para ingresar a Entanglion. Las malas noticias son que, sin una computadora cuántica para guiarlos, estos motores pueden ser un poco... impredecibles.
 
-Think you're up for the challenge?
+¿Crees que estás listo para el desafío?
 
-# Goal
-Entanglion is a cooperative board game designed for two players. The goal is to reconstruct a quantum computer developed by an ancient race. Work together with your teammate to navigate the three galaxies of the quantum universe – Centarious, Superious, and Entanglion – in a quest to collect eight quantum computer components. Be careful to avoid detection by the planetary defense mechanisms guarding the components!
+# Objetivo
+Entanglion es un juego de mesa cooperativo diseñado para dos jugadores. El objetivo es reconstruir una computadora cuántica desarrollada por una raza ancestral. Trabaja junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico - Centarious, Superious, y Entanglion - en una búsqueda para recolectar ocho componentes de computadora cuántica. ¡Ten cuidado de evitar ser detectao por los mecanismos de defensa planetarios que vigilan a los componentes!
 
-# Game concepts
-Entanglion was designed to expose players to several fundamental concepts in quantum computing: 
+# Conceptos de Juego
+Entanglion fue diseñado para exponer a los jugadores a varios conceptos fundamentales de computación cuántica:
 
-- **Qubits** are the building blocks of quantum computation.
-- **Superposition** is when a quantum system may exist in a probabilistic combination of multiple states at once.
-- **Entanglement** happens when the state of one qubit correlates with the state of another qubit.
-- **Measurement** is the process of observing the classical value of a qubit.
-- **Error** happens when random noise in the quantum system perturbs the measured value of a qubit.
+- **Qubits** son los bloques de construcción de la computación cuántica.
+- **Superposición** es cuando un sistema cuántico puede existir en una combinación probabilística de múltiples estados a la vez.
+- **Entrelazamiento** sucede cuando el estado de un qubit se correlaciona con el estado de otro qubit.
+- **Medición** es el proceso de observar el valor clásico de un qubit.
+- **Error** ocurre cuando el ruido aleatorio en un sistema cuántico perturba el valor medido de un qubit.
 
-Entanglion also exposes players to the different kinds of hardware and software components involved in building a real quantum computer.
+Entanglion además expone a los jugadores a los diferentes tipos de hardware y componentes de software involucrados en construir una computadora cuántica real.
 
-Further discussion of how Entanglion relates to actual quantum computing can be found toward the end of this book.
+Al final de este libro podrás encontrar discusión adicional de cómo Entanglion se relaciona con la computación cuántica real.
 
-# Game setup
-1. **Lay out the game & spaceship boards**. Place the game board within easy reach from 
-each player and distribute the spaceship boards to each player.
-2. **Place the quantum components**. Shuffle the quantum components and place them face up on each planet in the Entanglion galaxy, one per planet.
-3. **Shuffle the engine card stack**. Set aside the PROBE card and shuffle the remaining engine cards. Place the PROBE card face down on the engine stack, then place the remaining engine cards on top, face down.
-4. **Prepare the quantum event deck**. Set aside the Quantum Shuffle card and shuffle the remaining event cards. Deal out three event cards face down on the quantum event deck. Next, place the Quantum Shuffle card face down on the deck. Finally, place the remaining event cards face down on the deck.
-5. **Set the initial detection rate**. Place the detection rate token on the detection rate scale. For an easy game, start with a detection rate of 1 or 2. For a more challenging game, start with a detection rate of 3. If the detection rate reaches the final level (X) before the quantum computer has been built, the game ends in a loss.
-6. **Determine the first player**. Determine the first player by having each player 
-roll the Entanglion die (8-sided). The player with the higher number goes first. Re-roll in case of a tie.
-7. **Determine the initial ship locations**. Starting with the first player, roll the Centarious die to place each spaceship (0 goes to <span style="color: purple"> ZERO </span>, 1 goes to <span style="color: purple"> ONE </span>). This process is akin to initializing a quantum system.
-8. **Draw engine cards**. Starting with the first player, each player draws three engine cards into their hand. Engine cards may be kept face up.
+# Preparación del juego
+1. **Despliega los tableros de juego y de naves espaciales**. Ubica el tablero de juego al cómodo alcance de cada jugador y distribuye los tableros de naves espaciales a cada jugador.
+2. **Ubica los componentes cuánticos**. Baraja los componentes cuánticos y ubícalos boca arria en cada planeta de la galaxia Entanglion, uno por cada planeta.
+3. **Baraja el mazo de cartas de motor**. Deja en un lado la carta INVESTIGACIÓN y baraja las cartas de motor restantes. Ubica la carta INVESTIGACIÓN boca abajo en el mazo de motor, luego ubica las restantes cartas de motor encima, boca abajo.
+4. **Prepara la plataforma de eventos cuánticos**. Deja de la do la carta Barajada Cuántica y baraja las cartas de eventos restantes. Reparte tres cartas de eventos boca abajo sobre la plataforma de eventos cuánticos. Finalmente, ubica las restantes cartas de eventos boca abajo sobre la plataforma.
+5. **Establece el nivel de detección inicial**. Ubica la ficha de nivel de detección en la escala de nivel de detección. Para un juego fácil, comienza con un nivel de detección de 1 o 2. Para un juego más desafiante, comienza con un nivel de detección de 3. Si el nivel de detección alcanza el nivel final (X) antes de que la computadora cuántica haya sido construida, el juego termina en una derrota.
+6. **Determina el primer jugador**. Determina el primer jugador haciendo que cada jugador tire el dado Entanglion (de 8 lados). El jugador con el número más alto comienza. Vuelvan a tirar en el caso de un empate.
+7. **Determina las posiciones iniciales de las naves**. Comenzando con el primer jugador, tiren el dado Centarious para ubicar cada nave espacial (0 va a <span style="color: purple"> CERO </span>, 1 va a <span style="color: purple"> UNO </span>). Este proceso es equivalente a inicializar un sistema cuántico.
+8. **Levanta las cartas de motor**. Comenzando con el primer jugador, cada jugador levanta tres cartas de motor en su mano. Las cartas de motor pueden dejarse boca arriba.
 
 <img src="../images/setup.png" width="100%">
 
-# Materials
+# Materiales
 
-**Boards**
+**Tableros**
 - 1 game board
 - 2 spaceship boards
 <img src="../images/board.png" width="40%">
