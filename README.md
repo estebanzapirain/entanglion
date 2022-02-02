@@ -29,7 +29,7 @@ Entanglion es un proyecto de código abierto y tú puedes hacer tu propia copia 
 <img src="images/board.png" width="85%" />
 
 ## Jugando a Entanglion
-Por favor lee el [libro de reglas](game) para comprender cómo jugar a Entanglion. La versión online del libro de reglas debería ser considerada autoritaria, y documentaremos cualquier error que encontremos en la guía impresa en dicha página.
+Por favor lee el [reglamento](game) para comprender cómo jugar a Entanglion. La versión online del reglamento debería ser considerada autoritaria, y documentaremos cualquier error que encontremos en la guía impresa en dicha página.
 
 ## Enseñando con Entanglion
 Si eres un educador que querría utilizar Entanglion como parte de un currículum de aprendizaje, por favor [contáctate con nosotros](mailto:entanglion@us.ibm.com). Nos encantaría escuchar acerca de tus planes para Entanglion y podríamos apoyar tus esfuerzos.
