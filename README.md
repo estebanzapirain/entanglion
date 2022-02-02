@@ -70,4 +70,4 @@ Entanglion fue diseñado por IBM Research en New York.
 **Ciencia Cuántica**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
 
 # Licencia
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo está licenciado bajo una licencia Creative CommonsThis work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
