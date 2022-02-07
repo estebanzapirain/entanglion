@@ -16,17 +16,17 @@ http://ibm.biz/entanglion
 
 ¡FelicitaciUNOs, tu capitán se ha retirado y te ha dejado a cargo de su empresa de transporte galáctico! Es hora de hacer algunas mejoras.
 
-Por años, has estado obsesionado con rumores de una tecnología ancestral de computación cuántica que podría revolucionar el transporte de carga galáctico. ¡Si los rumores fueran ciertos, permitiría a tus naves calcular senderos en el hiperespacio en cuestión de segundos! Sólo hay un inconveniente: los ancestros desmantelaron su computadora cuántica por temor a que fuera demasiado poderosa, y dejaron los compUNOntes desparramados entre los planetas de la fuertemente vigilada galaxia Entanglion.
+Por años, has estado obsesionado con rumores de una tecnología ancestral de computación cuántica que podría revolucionar el transporte de carga galáctico. ¡Si los rumores fueran ciertos, permitiría a tus naves calcular senderos en el hiperespacio en cuestión de segundos! Sólo hay un inconveniente: los ancestros desmantelaron su computadora cuántica por temor a que fuera demasiado poderosa, y dejaron los componentes desparramados entre los planetas de la fuertemente vigilada galaxia Entanglion.
 
 Si quieres reconstruir esta increíble tecnología, tendrás que navegar tus naves a través de la galaxia Entanglion y evitar las defensas dejadas atrás por los ancestros. Las buenas noticias son que tu antiguo capitán te dejó suficiente dinero para equipar tus naves con los motores potenciados cuánticamente que necesitarás para ingresar a Entanglion. Las malas noticias son que, sin una computadora cuántica para guiarlos, estos motores pueden ser un poco... impredecibles.
 
 ¿Crees que estás listo para el desafío?
 
 # Objetivo
-Entanglion es un juego de mesa cooperativo diseñado para dos jugadores. El objetivo es reconstruir una computadora cuántica desarrollada por una raza ancestral. Trabaja junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico - Centarious, Superious, y Entanglion - en una búsqueda para recolectar ocho compUNOntes de computadora cuántica. ¡Ten cuidado de evitar ser detectao por los mecanismos de defensa planetarios que vigilan a los compUNOntes!
+Entanglion es un juego de mesa cooperativo diseñado para dos jugadores. El objetivo es reconstruir una computadora cuántica desarrollada por una raza ancestral. Trabaja junto a tu compañero de equipo para navegar las tres galaxias del universo cuántico - Centarious, Superious, y Entanglion - en una búsqueda para recolectar ocho componentes de computadora cuántica. ¡Ten cuidado de evitar ser detectao por los mecanismos de defensa planetarios que vigilan a los componentes!
 
 # Conceptos de Juego
-Entanglion fue diseñado para expUNOr a los jugadores a varios conceptos fundamentales de computación cuántica:
+Entanglion fue diseñado para exponer a los jugadores a varios conceptos fundamentales de computación cuántica:
 
 - **Qubits** son los bloques de construcción de la computación cuántica.
 - **Superposición** es cuando un sistema cuántico puede existir en una combinación probabilística de múltiples estados a la vez.
@@ -34,13 +34,13 @@ Entanglion fue diseñado para expUNOr a los jugadores a varios conceptos fundame
 - **Medición** es el proceso de observar el valor clásico de un qubit.
 - **Error** ocurre cuando el ruido aleatorio en un sistema cuántico perturba el valor medido de un qubit.
 
-Entanglion además expUNO a los jugadores a los diferentes tipos de hardware y compUNOntes de software involucrados en construir una computadora cuántica real.
+Entanglion además expone a los jugadores a los diferentes tipos de hardware y componentes de software involucrados en construir una computadora cuántica real.
 
 Al final de este libro podrás encontrar discusión adicional de cómo Entanglion se relaciona con la computación cuántica real.
 
 # Preparación del juego
 1. **Despliega los tableros de juego y de naves espaciales**. Ubica el tablero de juego al cómodo alcance de cada jugador y distribuye los tableros de naves espaciales a cada jugador.
-2. **Ubica los compUNOntes cuánticos**. Baraja los compUNOntes cuánticos y ubícalos boca arria en cada planeta de la galaxia Entanglion, uno por cada planeta.
+2. **Ubica los componentes cuánticos**. Baraja los componentes cuánticos y ubícalos boca arria en cada planeta de la galaxia Entanglion, uno por cada planeta.
 3. **Baraja el mazo de cartas de motor**. Deja en un lado la carta PROBE y baraja las cartas de motor restantes. Ubica la carta PROBE boca abajo en el mazo de motor, luego ubica las restantes cartas de motor encima, boca abajo.
 4. **Prepara la plataforma de eventos cuánticos**. Deja de la do la carta Barajada Cuántica y baraja las cartas de eventos restantes. Reparte tres cartas de eventos boca abajo sobre la plataforma de eventos cuánticos. Finalmente, ubica las restantes cartas de eventos boca abajo sobre la plataforma.
 5. **Establece el nivel de detección inicial**. Ubica la ficha de nivel de detección en la escala de nivel de detección. Para un juego fácil, comienza con un nivel de detección de 1 o 2. Para un juego más desafiante, comienza con un nivel de detección de 3. Si el nivel de detección alcanza el nivel final (X) antes de que la computadora cuántica haya sido construida, el juego termina en una derrota.
@@ -66,8 +66,8 @@ Al final de este libro podrás encontrar discusión adicional de cómo Entanglio
 
 **Piezas**
 - 1 ficha de nivel de detección
-- 8 compUNOntes cuánticos
-<img src="../images/quantum_compUNOnts.png" width="100%">
+- 8 componentes cuánticos
+<img src="../images/quantum_components.png" width="100%">
 
 - 1 dado Centarious (púrpura binario d6)
 - 1 dado Entanglion (amarillo d8)
@@ -89,7 +89,7 @@ Las cartas de motor son usadas para navegar tus naves porel universo cuántico. 
 
 **CNOT**. CNOT es utilizada para ingresar a la galaxia Entanglion y navegar en su interior. Además invierte la posición de tu nave espacial en Centarious, pero sólo cuando la otra nave está orbitando <span style="color: purple"> UNO </span>.
 
-**PROBE**. ¡Cuando se levanta la carta PROBE, tus naves han sido descubiertas por una sonda defensiva ancestral! Tira el dado Entanglion. Si el resultado es menor a 4 (después de tomar en cuenta los efectos de los compUNOntes cuánticos), incrementa el nivel de detección en uno. Sino, PROBE no tiene efecto. Descarta PROBEy levanta una carta de reemplazo de motor.
+**PROBE**. ¡Cuando se levanta la carta PROBE, tus naves han sido descubiertas por una sonda defensiva ancestral! Tira el dado Entanglion. Si el resultado es menor a 4 (después de tomar en cuenta los efectos de los componentes cuánticos), incrementa el nivel de detección en uno. Sino, PROBE no tiene efecto. Descarta PROBEy levanta una carta de reemplazo de motor.
 
 > Orienta a las cartas de motor en los espacios de control de motores de forma que las líneas en las cartas estén alineadas con la línea de tu nave espacial.
 
@@ -101,7 +101,7 @@ Realiza _una_ de las siguientes acciUNOs en tu turno.
 
 1. **Navegar**. Juega una de las cartas de motor en control de motores para navegar alrededor de la galaxia, y levanta una carta de reemplazo. Sólo puedes jugar cartas de motor para tu propia nave.
 2. **Intercambiar**. Descarta una carta de motor de tu mano y levanta una carta de reemplazo.
-3. **Recobrar**. Tira el dado Entanglion para intentar recobrar un compUNOnte cuántico, si hay uno presente.
+3. **Recobrar**. Tira el dado Entanglion para intentar recobrar un componente cuántico, si hay uno presente.
 4. **Evento**. Juega una carta de evento de tu mano (si posees una).
 
 > Los jugadores no pueden pasar sus turnos, deben realizar una de las acciUNOs detalladas arriba.
@@ -118,26 +118,25 @@ Nave líder (jugando la CNOT) | La otra nave | Destino
 
 También es posible salir de Entanglion utilizando CNOT cuando ambas naves están orbitando <span style="color: #facd4d"> PHI MÁS </span>, <span style="color: #facd4d"> PHI MENOS </span>, <span style="color: #facd4d"> PSI MÁS </span>, o <span style="color: #facd4d"> PSI MENOS </span>. La nave que juega la CNOT regresa a Centarious y la otra nave regresa a Superioues, a los planetas indicados con las líneas grises.
 
-Example: Rubicon is orbiting <span style="color: purple"> CERO </span> and Mercurial is orbiting <span style="color: green"> MÁS </span>. When Rubicon plays a CNOT, both ships move to <span style="color: #facd4d"> PHI MÁS </span>.
+Ejemplo: Rubicon está orbitando <span style="color: purple"> CERO </span> y Mercurial está orbitando <span style="color: green"> MÁS </span>. Cuando Rubicon juega una CNOT, ambas naves se mueven a <span style="color: #facd4d"> PHI MÁS </span>.
 
-> Outside of Entanglion, ships move independently. Inside Entanglion, both ships always move together, irregardless of which player plays an engine card.
+> Fuera de Entanglion, las naves se mueven en forma independiente. Dentro de Entanglion, ambas naves siempre se mueven juntas, sin importar qué jugador juega una carta de motor.
 
 <img src="../images/entering_entanglion.png" width="40%">
 
-On <span style="color: #facd4d"> PHI MÁS </span>, when Rubicon plays CNOT, Rubicon moves to <span style="color: purple"> CERO </span> and Mercurial moves to <span style="color: green"> MÁS </span>.
+En <span style="color: #facd4d"> PHI MÁS </span>, cuando Rubicon juega CNOT, Rubicon se mueve a <span style="color: purple"> CERO </span> y Mercurial se mueve a <span style="color: green"> MÁS </span>.
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
-# Detection rate
-The detection rate determines the difficulty of successfully evading planetary defenses. The detection rate token is used to keep track of the current detection rate. When a player’s spaceship has been detected by orbital defenses, or a player’s away team has been detected by ground defenses, the detection rate is increased, making it easier for each planet’s defenses 
-to detect the player in the future. The game ends when the detection rate reaches the final level (designated with an X).
+# Nivel de Detección
+El nivel de detección determina la dificultad de evadir exitosamente las defensas planetarias. La ficha de nivel de detección es utilizada para registrar el nivel de detección actual. Cuando la nave espacial de un jugador ha sido detectada por las defensas orbitales, o el equipo de exploración de un jugador ha sido detectado por las defensas terrestres, el nivel de detección se incrementa, facilitando que las defensas de los planetas detectan al jugador en el futuro. El juego termina cuando el nivel de detección llega al nivel final (designado con una X).
 
-> The detection rate increases by UNO whenever you are detected by a planet's orbital or ground defenses.
+> El nivel de detección se incrementa en uno siempre que eres detectado por las defensas orbitales o terrestres de un planeta.
 
 <img src="../images/detection_rate.png" width="40%">
 
-# Orbital defenses
-Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum compUNOnts hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
+# Defensas orbitales
+Los planetas en Entanglion están protegidos por defensas orbitales que escanean naves que busquen tomar los componentes cuánticos escondidos en su interior. Es posible evadir estas defensas utilizando tus motores cuánticos. Si eres detectado, sin embargo, tu sistema de navigación tomará automáticamente maniobras evasivas y saltará a un planeta aleatorio del sistema Centarious. Este salto desencadena un evento cuántico.
 
 **When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
 
@@ -147,7 +146,7 @@ Planets in Entanglion are protected by orbital defenses that scan for ships look
 
 > Physical Qubits lets you decide which planets in Centarious to place your spaceships.
 
-> Quantum Programming lets you bypass orbital defenses when a planet doesn't have a quantum compUNOnt.
+> Quantum Programming lets you bypass orbital defenses when a planet doesn't have a quantum component.
 
 > The Quantum Tunnel event card lets you bypass orbital defenses. If you play this card after entering the orbit of a planet in Entanglion, you do not need to roll the Entanglion die to determine if your ships were detected by orbital defenses.
 
@@ -155,20 +154,20 @@ Planets in Entanglion are protected by orbital defenses that scan for ships look
 
 > If you play an engine card that does not transition your ships to a new planet in Entanglion, you do not need to re-check whether your ships have been detected.
 
-# Quantum compUNOnts
-There are eight compUNOnts that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each compUNOnt also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the compUNOnts in an optimal order!
+# Quantum components
+There are eight components that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each component also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the components in an optimal order!
 
-> Quantum compUNOnts are permanent upgrades to your ship and alter gameplay for the rest of the game.
+> Quantum components are permanent upgrades to your ship and alter gameplay for the rest of the game.
 
-<img src="../images/quantum_compUNOnts.png" width="100%">
+<img src="../images/quantum_components.png" width="100%">
 
-When your ships are orbiting a planet with a quantum compUNOnt, you may send an away team to the planet’s surface to retrieve it. Quantum compUNOnts are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
+When your ships are orbiting a planet with a quantum component, you may send an away team to the planet’s surface to retrieve it. Quantum components are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
 
-**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the compUNOnt and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by UNO.
+**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by UNO.
 
-> If your away team fails to retrieve a quantum compUNOnt, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
+> If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
 
-> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum compUNOnt to your ship
+> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum component to your ship
 
 # Quantum events
 Quantum engines can be unpredictable at times! Once all six engine control slots have been filled, perform a quantum event at the end of your turn. In addition, perform a quantum event whenever you have been detected by orbital defenses.
@@ -182,7 +181,7 @@ Quantum engines can be unpredictable at times! Once all six engine control slots
 <img src="../images/events.png" width="100%">
 
 # Game end
-Players immediately win the game when they have collected all eight compUNOnts of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
+Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
 
 # Your first game
 Set up the game board as described in Setup. In this game, Mercurial (the blue player) will go first. Mercurial draws three cards: X, H, and H. Rubicon draws three cards: CNOT, SWAP, and X. Both ships start on <span style="color: purple"> CERO </span>.
@@ -198,7 +197,7 @@ Set up the game board as described in Setup. In this game, Mercurial (the blue p
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
 
-3. Mercurial decides to retrieve the Quantum Gates present on <span style="color: #facd4d"> PHI MÁS </span>. Mercurial rolls a 6, much higher than the detection rate of 1, and successfully retrieves the compUNOnt.
+3. Mercurial decides to retrieve the Quantum Gates present on <span style="color: #facd4d"> PHI MÁS </span>. Mercurial rolls a 6, much higher than the detection rate of 1, and successfully retrieves the component.
 
 <img src="../images/first4.png" width="40%">
 
@@ -211,7 +210,7 @@ Rubicon rolls the Entanglion die and it comes up as 1. The ships have been detec
 <img src="../images/first5.png" width="40%">
 <img src="../images/first_detection2.png" width="40%">
 
-Play continues until either Rubicon and Mercurial have collected all of the quantum compUNOnts in Entanglion, or until the detection rate reaches the final level.
+Play continues until either Rubicon and Mercurial have collected all of the quantum components in Entanglion, or until the detection rate reaches the final level.
 
 # How Entanglion relates to quantum computing
 Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
@@ -230,8 +229,8 @@ The engine cards represent _some_ of the different kinds of quantum logic gates 
 - **CNOT**. CNOT stands for "Controlled Not." It needs two qubits to work: UNO qubit is designated the "target," which gets flipped if the other qubit, known as the "control," has a value of 1.
 - **H**. The Hadamard gate is used to create or collapse superposition. It is UNO of the most important gates in quantum computing.
 
-## Quantum compUNOnts
-The quantum compUNOnts in Entanglion represent different physical or logical compUNOnts needed to construct an actual quantum computer.
+## Quantum components
+The quantum components in Entanglion represent different physical or logical components needed to construct an actual quantum computer.
 
 - **Physical Qubits**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
 - **Qubit Interconnect**. Qubits must be physically connected to each other in order to become entangled with UNO another.
@@ -248,7 +247,7 @@ Event cards add fun, random elements to the game. Some event cards are named aft
 <img src="../images/events.png" width="100%">
 
 ## Defenses, measurement, and error
-The process of encountering orbital defenses when navigating the Entanglion galaxy is akin to performing a classical measurement (also known as a Z measurement) on the quantum state. Additionally, the act of retrieving a quantum compUNOnt is akin to performing an entanglement measurement, also known as a [Bell test](https://en.wikipedia.org/wiki/Bell_test_experiments). Sometimes, noise in the quantum system prevents us from seeing a reliable measurement. We call this a readout error. The effects of noise and errors are modeled via the detection rate.
+The process of encountering orbital defenses when navigating the Entanglion galaxy is akin to performing a classical measurement (also known as a Z measurement) on the quantum state. Additionally, the act of retrieving a quantum component is akin to performing an entanglement measurement, also known as a [Bell test](https://en.wikipedia.org/wiki/Bell_test_experiments). Sometimes, noise in the quantum system prevents us from seeing a reliable measurement. We call this a readout error. The effects of noise and errors are modeled via the detection rate.
 
 ## Additional resources
 We recommend a few resources for learning more about quantum computing.
