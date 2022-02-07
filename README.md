@@ -29,7 +29,7 @@ Entanglion es un proyecto de código abierto y tú puedes hacer tu propia copia 
 <img src="images/board.png" width="85%" />
 
 ## Jugando a Entanglion
-Por favor lee el [libro de reglas](game) para comprender cómo jugar a Entanglion. La versión online del libro de reglas debería ser considerada autoritaria, y documentaremos cualquier error que encontremos en la guía impresa en dicha página.
+Por favor lee el [reglamento](game) para comprender cómo jugar a Entanglion. La versión online del reglamento debería ser considerada autoritaria, y documentaremos cualquier error que encontremos en la guía impresa en dicha página.
 
 ## Enseñando con Entanglion
 Si eres un educador que querría utilizar Entanglion como parte de un currículum de aprendizaje, por favor [contáctate con nosotros](mailto:entanglion@us.ibm.com). Nos encantaría escuchar acerca de tus planes para Entanglion y podríamos apoyar tus esfuerzos.
@@ -70,4 +70,4 @@ Entanglion fue diseñado por IBM Research en New York.
 **Ciencia Cuántica**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
 
 # Licencia
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo está licenciado bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
