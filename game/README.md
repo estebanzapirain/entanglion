@@ -1,4 +1,4 @@
-# Libro de Reglas de Entanglion
+# Reglamento de Entanglion
 
 > Un juego de IBM Research
 
@@ -41,7 +41,7 @@ Al final de este libro podrás encontrar discusión adicional de cómo Entanglio
 # Preparación del juego
 1. **Despliega los tableros de juego y de naves espaciales**. Ubica el tablero de juego al cómodo alcance de cada jugador y distribuye los tableros de naves espaciales a cada jugador.
 2. **Ubica los componentes cuánticos**. Baraja los componentes cuánticos y ubícalos boca arria en cada planeta de la galaxia Entanglion, uno por cada planeta.
-3. **Baraja el mazo de cartas de motor**. Deja en un lado la carta INVESTIGACIÓN y baraja las cartas de motor restantes. Ubica la carta INVESTIGACIÓN boca abajo en el mazo de motor, luego ubica las restantes cartas de motor encima, boca abajo.
+3. **Baraja el mazo de cartas de motor**. Deja en un lado la carta PROBE y baraja las cartas de motor restantes. Ubica la carta PROBE boca abajo en el mazo de motor, luego ubica las restantes cartas de motor encima, boca abajo.
 4. **Prepara la plataforma de eventos cuánticos**. Deja de la do la carta Barajada Cuántica y baraja las cartas de eventos restantes. Reparte tres cartas de eventos boca abajo sobre la plataforma de eventos cuánticos. Finalmente, ubica las restantes cartas de eventos boca abajo sobre la plataforma.
 5. **Establece el nivel de detección inicial**. Ubica la ficha de nivel de detección en la escala de nivel de detección. Para un juego fácil, comienza con un nivel de detección de 1 o 2. Para un juego más desafiante, comienza con un nivel de detección de 3. Si el nivel de detección alcanza el nivel final (X) antes de que la computadora cuántica haya sido construida, el juego termina en una derrota.
 6. **Determina el primer jugador**. Determina el primer jugador haciendo que cada jugador tire el dado Entanglion (de 8 lados). El jugador con el número más alto comienza. Vuelvan a tirar en el caso de un empate.
@@ -53,47 +53,47 @@ Al final de este libro podrás encontrar discusión adicional de cómo Entanglio
 # Materiales
 
 **Tableros**
-- 1 game board
-- 2 spaceship boards
+- 1 tablero de juego
+- 2 tableros de nave espacial
 <img src="../images/board.png" width="40%">
 
-**Cards**
-- 24 engine cards (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
+**Cartas**
+- 24 cartas de motor (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
 <img src="../images/engine_cards.png" width="40%">
 
-- 9 event cards
+- 9 cartas de evento
 <img src="../images/events.png" width="100%">
 
-**Pieces**
-- 1 detection rate token
-- 8 quantum components
+**Piezas**
+- 1 ficha de nivel de detección
+- 8 componentes cuánticos
 <img src="../images/quantum_components.png" width="100%">
 
-- 1 Centarious die (purple binary d6)
-- 1 Entanglion die (yellow d8)
-- 2 spaceship tokens
+- 1 dado Centarious (púrpura binario d6)
+- 1 dado Entanglion (amarillo d8)
+- 2 fichas de nave espacial
 <img src="../images/spaceship.png" width="20%">
 
-**Rule Book**
+**Reglamento**
 
-# Engine cards
+# Cartas de motor
 <img src="../images/engine_cards.png" width="60%">
 
-Engine cards are used to navigate your ships around the quantum universe. Navigation paths on the game board are labeled with the card(s) needed to traverse them (e.g. “X/CNOT” means either X or CNOT can be used to traverse that path). In some cases, only one spaceship may traverse a path. Engine cards may be played with no effect when no transition is shown on the board.
+Las cartas de motor son usadas para navegar tus naves porel universo cuántico. Las rutas de navegación están señaladas en el tablero de juego con la/s carta/s necesarias para atravesarlas (por ejemplo: "X/CNOT" significa que tanto X como CNOT pueden ser utilizadas para atravesar esa ruta). En algunos casos, sólo una nave espacial puede atravesar una ruta. Las cartas de motor pueden ser jugadas sin tener efecto cuando no se muestra una transición en el tablero.
 
-**X**. X is used to navigate between <span style="color: purple"> ZERO </span> and <span style="color: purple"> ONE </span> and within the Entanglion galaxy.
+**X**. X es utilizada para navegar entre <span style="color: purple"> CERO </span> y <span style="color: purple"> UNO </span> y en el interior de la galaxia Entanglion.
 
-**H**. H is used to travel between Centarious and Superious and within the Entanglion galaxy.
+**H**. H es utilizada para viajar entre Centarious and Superious y en el interior de la galaxia Entanglion.
 
-**SWAP**. Outside of Entanglion, SWAP exchanges the positions of the two spaceships. Inside Entanglion, SWAP only transitions the spaceships between <span style="color: #facd4d"> OMEGA ZERO </span> and <span style="color: #facd4d"> OMEGA THREE </span>.
+**SWAP**. Fuera de Entanglion, SWAP intercambia las posiciones de las dos naves espaciales. Dentro de Entanglion, SWAP sólo transiciona las naves entre <span style="color: #facd4d"> OMEGA CERO </span> y <span style="color: #facd4d"> OMEGA TRES </span>.
 
-**CNOT**. CNOT is used to enter the Entanglion galaxy and navigate within it. It also flips the position of your spaceship in Centarious, but only when the other spaceship is orbiting <span style="color: purple"> ONE </span>.
+**CNOT**. CNOT es utilizada para ingresar a la galaxia Entanglion y navegar en su interior. Además invierte la posición de tu nave espacial en Centarious, pero sólo cuando la otra nave está orbitando <span style="color: purple"> UNO </span>.
 
-**PROBE**. Whenever PROBE is drawn, your ships have been discovered by an ancient defensive probe! Roll the Entanglion die. If the outcome is less than 4 (after accounting for quantum component effects), increase the detection rate by one. Otherwise, PROBE has no effect. Discard PROBE and draw a replacement engine card.
+**PROBE**. ¡Cuando se levanta la carta PROBE, tus naves han sido descubiertas por una sonda defensiva ancestral! Tira el dado Entanglion. Si el resultado es menor a 4 (después de tomar en cuenta los efectos de los componentes cuánticos), incrementa el nivel de detección en uno. Sino, PROBE no tiene efecto. Descarta PROBEy levanta una carta de reemplazo de motor.
 
-> Orient engine cards in the engine control spaces such that the lines on the card line up with the line of your spaceship.
+> Orienta a las cartas de motor en los espacios de control de motores de forma que las líneas en las cartas estén alineadas con la línea de tu nave espacial.
 
-> When the engine stack becomes depleted, immediately reshuffle the engine cards in the discard pile to replenish the engine stack. Include PROBE in the shuffle, do not place it at the bottom of the stack.
+> Cuando el mazo de motor queda sin cartas, inmediatamente mezcla las cartas de motor en la pila de descarte para recargar el mazo de motor. Incluye la carta PROBE en la mezcla, no la coloques al fondo del mazo.
 
 # Turn overview
 Perform _one_ of the following actions on your turn.
