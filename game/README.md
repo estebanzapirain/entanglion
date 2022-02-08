@@ -138,119 +138,119 @@ El nivel de detección determina la dificultad de evadir exitosamente las defens
 # Defensas orbitales
 Los planetas en Entanglion están protegidos por defensas orbitales que escanean naves que busquen tomar los componentes cuánticos escondidos en su interior. Es posible evadir estas defensas utilizando tus motores cuánticos. Si eres detectado, sin embargo, tu sistema de navigación tomará automáticamente maniobras evasivas y saltará a un planeta aleatorio del sistema Centarious. Este salto desencadena un evento cuántico.
 
-**When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
+**Cuando navegas a cualquier planeta dentro de Entanglion:** Tira el dado Entanglion. Si el resultado es mayor que el nivel de detección actual, las defensas orbitales han sido evadidas. Sino, realiza las siguientes acciones:
 
-1. Roll the Centarious die and move both ships to the planet indicated. Both ships jump together.
-2. Increase the detection rate by UNO.
-3. Draw a quantum event card and perform the action indicated.
+1. Tira el dado Centarious y mueve ambas naves al planeta indicado. Ambas naves saltan juntas.
+2. Incrementa en uno el nivel de detección.
+3. Toma una carta de evento cuántico y realiza la acción indicada.
 
-> Physical Qubits lets you decide which planets in Centarious to place your spaceships.
+> Los Qubits Físicos te permiten decidir en qué planetas de Centarious ubicar tus naves.
 
-> Quantum Programming lets you bypass orbital defenses when a planet doesn't have a quantum component.
+> La Programación Cuántica te permite puentear las defensas orbitales cuando un planeta no posee un componente cuántico.
 
-> The Quantum Tunnel event card lets you bypass orbital defenses. If you play this card after entering the orbit of a planet in Entanglion, you do not need to roll the Entanglion die to determine if your ships were detected by orbital defenses.
+> La carta de evento Túnel Cuántico te permite puentear defensas orbitales. Si juegas esta carta despues de entrar en la órbita de un planeta en Entanglion, no necesitas tirar el dado Entanglion para determinar si tus naves fueron detectadas por las defensas orbitales.
 
-> When entering Entanglion via the Heisenberg card, you may ignore the orbital defenses.
+> Si ingresas a Entanglion a través de la carta Heisenberg, puedes ignorar las defensas orbitales.
 
-> If you play an engine card that does not transition your ships to a new planet in Entanglion, you do not need to re-check whether your ships have been detected.
+> Si juegas una carta de motor que no transiciona a tus naves a un nuevo planeta en Entanglion, no necesitas volver a verificar si tus naves han sido detectadas.
 
-# Quantum components
-There are eight components that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each component also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the components in an optimal order!
+# Componentes Cuánticos
+Hay ocho componentes que los jugadores deben obtener para construir la computadora cuántica y ganar el juego, mostrados en cada uno de los tableros de nave espacial. ¡Cada componente además otorga una habilidad especial permanente u obstáculo a tu nave, así que debes armar estrategias con tu compañero de equipo para obtener los componentes en el orden óptimo!
 
-> Quantum components are permanent upgrades to your ship and alter gameplay for the rest of the game.
+> Los componentes cuánticos son mejoras permanentes a tu nave y alteran la jugabilidad por el resto de la partida.
 
 <img src="../images/quantum_components.png" width="100%">
 
-When your ships are orbiting a planet with a quantum component, you may send an away team to the planet’s surface to retrieve it. Quantum components are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
+Cuando tus naves están orbitando un planeta con un componente cuántico, puedes enviar un equipo de exploración a la superficie del planeta para recuperarlo. Los componentes cuánticos son custodiados por defensas terrestres automatizadas que deben ser evadidas, de la misma forma que las defensas orbitales.
 
-**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by UNO.
+**Para realizar una misión de recuperación:** Tira el dado Entanglion. Si el resultado es mayor que el nivel de detección actual, recoge el componente y ubícalo en tu tablero de nave espacial. Sino, tu equipo de exploración fue detectado por las defensas terrestres: incrementa en uno el nivel de detección.
 
-> If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
+> Si tu equipo de exploración fracasa en recuperar un componente cuántico, tus naves se mantienen en órbita en el planeta actual. No necesitas realizar otra verificación de defensas orbitales en el próximo turno, a menos que navegues a otro planeta que posea defensas orbitales.
 
-> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum component to your ship
+> La carta de evento Túnel Cuántico te permite puentear las defensas terrestres. Si juegas esta carta en el transcurso de tu turno, tu misión de recuperación es exitosa. No necesitas tirar el dado Entanglion para determinar si tu equipo de exploración fue detectado por las defensas terrestres; añade el componente cuántico a tu nave.
 
-# Quantum events
-Quantum engines can be unpredictable at times! Once all six engine control slots have been filled, perform a quantum event at the end of your turn. In addition, perform a quantum event whenever you have been detected by orbital defenses.
+# Eventos cuánticos
+¡Los motores cuánticos pueden ser impredecibles a veces! Una vez que todos los casilleros de control de motores se han llenado, realiza un evento cuántico al final de tu turno. Adicionalmente, realiza un evento cuántico siempre que has sido detectado por las defensas orbitales.
 
-**To perform a quantum event:** Draw an event card and perform the instructions. Clear all engine cards from the game board and put them in engine discard pile.
+**Para realizar un evento cuántico:** Levanta una carta de evento y sigue las instrucciones. Quita todas las cartas de motor del tablero de juego y ponlas en la pila de descarte de motor.
 
-> When Quantum Shuffle is drawn, reshuffle the quantum event cards as per the instructions in game setup.
+> Cuando se levanta Mezcla Cuántica, vuelve a mezclar las cartas de evento cuántico siguiendo las instrucciones de la preparación del juego.
 
-> In the event that your ship was detected by orbital defenses on the same turn as having filled all six engine control slots, perform two quantum events.
+> En el caso de que tu nave haya sido detectada por las defensas orbitales en el mismo turno que se llenaron los seis casilleros de control de motores, realiza dos eventos cuánticos.
 
 <img src="../images/events.png" width="100%">
 
-# Game end
-Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
+# Fin del juego
+Los jugadores inmediatamente ganan el juego cuando han recolectado los ocho componentes de la computadora cuántica. Los jugadores inmediatamente pierden el juego cuando el nivel de detección llega al máximo (X).
 
-# Your first game
-Set up the game board as described in Setup. In this game, Mercurial (the blue player) will go first. Mercurial draws three cards: X, H, and H. Rubicon draws three cards: CNOT, SWAP, and X. Both ships start on <span style="color: purple"> CERO </span>.
+# Tu primer juego
+Prepara el tablero de juego como se describe en Preparación. En esta partida, Mercurial (el jugador azul) comienza. Mercurial levanta tres cartas: X, H, y H. Rubicon levanta tres cartas: CNOT, SWAP, y X. Ambas naves comienzan en <span style="color: purple"> CERO </span>.
 
 <img src="../images/first1.png" width="40%">
 
-1. Mercurial plays an H to navigate to <span style="color: green"> MÁS </span>. Mercurial draws X as a replacement card.
+1. Mercurial juega una H para navegar a <span style="color: green"> MÁS </span>. Mercurial levanta una X como carta de reemplazo.
 
 <img src="../images/first2.png" width="40%">
 
-2. Rubicon plays CNOT to navigate both ships to <span style="color: #facd4d"> PHI MÁS </span>. Rubicon draws H as a replacement card. After arriving at a planet in Entanglion, Rubicon must roll the Entanglion die to evade the orbital defenses. Since the detection rate is 1, Rubicon needs to roll a 2 or higher. Rubicon rolls the Entanglion die and gets a 3, just enough to evade detection!
+2.Rubicon juega CNOT para navegar ambas naves a <span style="color: #facd4d"> PHI MÁS </span>. Rubicon levanta una H como carta de reemplazo. Luego de arribar a un planeta en Entanglion, Rubicon debe tirar el dado Entanglion para evadir las defensas orbitales. Como el nivel de detección es 1, Rubicon necesita sacar un 2 o más. Rubicón tira el dado Entanglion y saca un 3, ¡justo lo suficiente para evadir ser detectada!
 
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
 
-3. Mercurial decides to retrieve the Quantum Gates present on <span style="color: #facd4d"> PHI MÁS </span>. Mercurial rolls a 6, much higher than the detection rate of 1, and successfully retrieves the component.
+3. Mercurial decide recuperar las Compuertas Cuánticas presentes en <span style="color: #facd4d"> PHI MÁS </span>. Mercurial tira un 6, mucho más alto que el nivel de detección de 1, y recolecta exitosamente el componente.
 
 <img src="../images/first4.png" width="40%">
 
-4. Rubicon decides the next destination is <span style="color: #facd4d"> OMEGA TWO </span> and plays an H to navigate both ships there.
+4. Rubicon decide que el siguiente destino es span style="color: #facd4d"> OMEGA TWO </span> y juega una H para navegar ambas naves allí.
 
 <img src="../images/first5.png" width="40%">
 
-Rubicon rolls the Entanglion die and it comes up as 1. The ships have been detected, so they must retreat! Rubicon rolls a 1 on the Centarious die, so both ships jump back to <span style="color: purple"> UNO </span>. Since they were detected, the detection rate is increased by 1 and a quantum event is triggered. Rubicon draws a quantum event card – Heisenberg – which can be used on a future turn.
+Rubicon tira el dado Entanglion y saca un 1. ¡Las naves han sido detectadas, así que deben retroceder! Rubicon saca un 1 en el dado Centarious, así que ambas naves deben retroceder a <span style="color: purple"> UNO </span>. Como han sido detectadas, el nivel de detección es incrementado en uno y un evento cuántico se activa. Rubicon levanta una carta de evento cuántico - Heisenberg - que podrá ser usada en un turno posterior.
 
 <img src="../images/first5.png" width="40%">
 <img src="../images/first_detection2.png" width="40%">
 
-Play continues until either Rubicon and Mercurial have collected all of the quantum components in Entanglion, or until the detection rate reaches the final level.
+El juego continúa hasta qye Rubicon o Mercurial hayan recolectado todos los componentes cuánticos de Entanglion, o hasta que el nivel de detección alcance el nivel máximo.
 
-# How Entanglion relates to quantum computing
-Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
+# Cómo se relaciona Entanglion con la computación cuántica
+Entanglion modela varios aspectos de una computadora cuántica de 2 qubits. Específicamente, las dos naves espaciales representan a dos qubits, y cada planeta de cada galaxia representa un estado distinto de estos qubits. Las cartas de motor representan las compuertas cuánticas usadas para transicionar los qubits entre los diferentes estados.
 
-The Centarious galaxy represents the classical states of 0 and 1, written in "ket notation" as ⎢0 〉(<span style="color: purple"> CERO </span>) and ⎢1 〉(<span style="color: purple"> UNO </span>). The Superious galaxy represents states of quantum superposition, known as ⎢+ 〉(<span style="color: green"> MÁS </span>) and ⎢- 〉(<span style="color: green"> MENOS </span>). The Entanglion galaxy represents states of entanglement. Four of the entangled states, ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI MÁS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MENOS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI MÁS </span>), and ⎢Φ- 〉(<span style="color: #facd4d"> PHI MENOS </span>), are known as the [Bell states](https://en.wikipedia.org/wiki/Bell_state). The other entangled states, which we have labeled ⎢ω0 〉(<span style="color: #facd4d"> OMEGA CERO </span>) through ⎢ω3 〉(<span style="color: #facd4d"> OMEGA THREE </span>), are additional states that are achievable through the combined operation of the X, H, SWAP, and CNOT gates.
+La galaxia Centarious representa a los estados clásicos 0 y 1, escritos en la "notación ket" como ⎢0 〉(<span style="color: purple"> CERO </span>) y ⎢1 〉(<span style="color: purple"> UNO </span>). La galaxia Superious representa los estados de superposición cuántica, conocidos como ⎢+ 〉(<span style="color: green"> MÁS </span>) y ⎢- 〉(<span style="color: green"> MENOS </span>). La galaxia Entanglion representa a los estados de entrelazamiento. Cuatro de los estados entrelazados, ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI MÁS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MENOS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI MÁS </span>), y ⎢Φ- 〉(<span style="color: #facd4d"> PHI MENOS </span>), son conocidos como los [estados Bell](https://en.wikipedia.org/wiki/Bell_state). Los otros estados entrelazados, que han sido etiquetados ⎢ω0 〉(<span style="color: #facd4d"> OMEGA CERO </span>) hasta ⎢ω3 〉(<span style="color: #facd4d"> OMEGA TRES </span>), son estados adicionales que son alcanzables a través de la operación combinada de las compuertas X, H, SWAP, y CNOT.
 
-The requirement that both ships must move together within Entanglion is a result of the fact that for entangled states, the state of the system is more complex than a simple combination of the states of the individual qubits. This is UNO of the main ways in which quantum mechanics differs from classical physics.
+El requisito de que ambas naves deben moverse juntas dentro de Entanglion es el resultado de el hecho de que para los estados entrelazados, el estado del sistema es más complejo que una simple combinación de los estados de los qubits individuales. Esta es una de las mayores diferencias entre la mecánica cuántica y la física clásica.
 
-## Engine cards
-The engine cards represent _some_ of the different kinds of quantum logic gates used by quantum computers.
+## Cartas de motor
+Las cartas de motor representan _algunas_ de las distintas compuertas lógicas cuánticas utilizadas por las computadoras cuánticas. 
 
 <img src="../images/engine_cards.png" width="60%">
 
-- **X**. The X gate flips the value of a qubit. It is also known as the bit flip gate.
-- **SWAP**. SWAP exchanges the values of the two qubits.
-- **CNOT**. CNOT stands for "Controlled Not." It needs two qubits to work: UNO qubit is designated the "target," which gets flipped if the other qubit, known as the "control," has a value of 1.
-- **H**. The Hadamard gate is used to create or collapse superposition. It is UNO of the most important gates in quantum computing.
+- **X**. La compuerta X invierte el valor de un qubit. Es también conocida como la compuerta de inversión de bit.
+- **SWAP**. SWAP intercambia los valores de los dos qubits.
+- **CNOT**. CNOT significa "Not Controlada". Necesita dos qubits para funcionar: un qubit es designado el "objetivo", que es invertido si el otro qubit, conocido como el "control", tiene un valor de 1.
+- **H**. La compuerta Hadamard es utilizada para crear o colapsar la superposición. Es una de las compuertas más importantes en la computación cuántica.
 
-## Quantum components
-The quantum components in Entanglion represent different physical or logical components needed to construct an actual quantum computer.
+## Componentes cuánticos
+Los componentes cuánticos en Entanglion representan a los diferentes componentes físicos o lógicos necesarios para construir una computadora cuántica real.
 
-- **Physical Qubits**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
-- **Qubit Interconnect**. Qubits must be physically connected to each other in order to become entangled with UNO another.
-- **Dilution Refrigerator**. Physical qubits must be kept at very cold temperatures – colder even than outer space – in order to maintain their coherence. Dilution refrigerators are able to cool physical qubits to temperatures as low as 2 millikelvin.
-- **Quantum Gates**. In classical computing, logical gates such as AND, OR, NOT, and NAND are combined to create higher-order computation. In quantum computing, quantum gates such as X, CNOT, SWAP, and H are used for computation.
-- **Quantum Programming**. In order to improve the productivity of quantum programmers, higher-level quantum programming languages are needed. For example, [IBM OpenQASM](https://github.com/IBM/qiskit-openqasm) allows you to program a quantum computer with an assembly-style language, and [IBM QISKit](https://qiskit.org) allows you to program a quantum computer in Python.
-- **Quantum Error Correction**. Physical qubits experience noise that may cause errors to occur during measurement. [Quantum error correction](https://en.wikipedia.org/wiki/Quantum_error_correction) is used to correct for these errors. The key insight of quantum error correction is to use multiple physical qubits to simulate UNO logical qubit.
-- **Control Infrastructure**. Quantum computers need some way to measure the internal state of a qubit. Control infrastructure uses microwave radiation to read the state of a qubit and digitize it into a binary state (0 or 1).
-- **Magnetic Shielding**. Qubits are extremely sensitive to stray magnetic fields. Magnetic shielding ensures qubits are protected from external sources of magnetism.
+- **Qubits físicos**. De la misma forma que los procesadores de las computadoras clásicas están implementados por medio de hardware de transistores, los procesadores cuánticos están implementados por hardware de qubits. Existen [varias formas distintas](https://en.wikipedia.org/wiki/Qubit#Physical_representation) en las que los ciéntificos están creando qubits físicos, incluyendo uniones de Josephson, trampas de iones, y puntos cuánticos.
+- **Interconexión de qubits**. Los qubits deben estar físicamente conectados entre sí para volverse entrelazados.
+- **Refrigerador de dilución**. Los qubits físicos deben ser mantenidos a temperaturas muy bajas - incluso más frías que el espacio exterior - para mantener su coherencia. Los refrigeradores de dilución son capaces de enfriar los qubits físicos a temperaturas tan bajas como 2 milikelvins.
+- **Compuertas cuánticas**. En la computación clásicas, las compuertas lógicas como la AND, OR, NOT, y NAND son combinadas para crear computación de órdenes más altos. En la computación cuántica, las compuertas cuánticas como la X, CNOT, SWAP, y H son utilizadas para la computación.
+- **Programación Cuántica**. Para mejorar la productividad de los programadores cuánticos, son necesarios los lenguajes de programación cuántica de alto nivel. Por ejemplo, [IBM OpenQASM](https://github.com/IBM/qiskit-openqasm) te permite programar una computadora cuántica mediante un lenguaje estilo ensamblador, y [IBM QISKit](https://qiskit.org) te permite programar una computadora cuántica en Python.
+- **Corrección Cuántica de Errores**. Los qubits físicos experimentan ruido que puede causar que ocurran errores durante la medición. [La corrección cuántica de errores](https://en.wikipedia.org/wiki/Quantum_error_correction) es utilizada para corregir estos errores. La clave de la corrección cuántica de errores es usar múltiples qubits físicos para simular un qubit lógico.
+- **Infraestructura de Control**. Las computadoras cuánticas necesitan una forma de medir el estado interno de un qubit. La infraestructura de control utiliza radiación de microondas para leer el estado de un qubit y digitalizarlo en un estado binario (0 o 1).
+- **Blindaje Magnético**. Los qubits son extremadamente sensibles a campos magnéticos errantes. El blindaje magnético se asegura de que los qubits estén protegidos de fuentes externas de magnetismo.
 
-## Event cards
-Event cards add fun, random elements to the game. Some event cards are named after people who made significant contributions to the field of quantum physics and quantum information science, such as Werner Heisenberg and Erwin Schrödinger. UNO event card is extra special, named after IBM researcher Charles Bennett, UNO of the founders of quantum information theory and a key contributor to the discovery of the quantum teleportation effect. Other event cards are named after quantum effects such as quantum tunneling, bit flip errors, wave function collapsing, and Einstein’s "spooky action at a distance." We encourage avid players to research these people and topics to learn more about the physics of quantum information!
+## Cartas de eventos
+Las cartas de eventos agregan elementos divertidos y aleatorios al juego. Algunas cartas de evento toman el nombre de gente que realizó contribuciones significativas al campo de la física cuántica y de la ciencia de la información cuántica, como Werner Heisenberg y Erwin Schrödinger. Una carta de evento es extra especial, en homenaje al investigador de IBM Charles Bennett, uno de los fundadores de la teoría de la información cuántica y un contribuidor clave al descubrimiento del efecto de teleportación cuántica. Otras cartas de evento toman el nombre de efectos cuánticos como la tunelización cuántica, los errores de inversión de bit, el colapso de la función de onda, y la "espeluznante acción a la distancia" de Einstein. ¡Alentamos a los jugadores curiosos a investigar esta gente y estos temas para conocer más de la física detrás de la información cuántica!
 
 <img src="../images/events.png" width="100%">
 
-## Defenses, measurement, and error
-The process of encountering orbital defenses when navigating the Entanglion galaxy is akin to performing a classical measurement (also known as a Z measurement) on the quantum state. Additionally, the act of retrieving a quantum component is akin to performing an entanglement measurement, also known as a [Bell test](https://en.wikipedia.org/wiki/Bell_test_experiments). Sometimes, noise in the quantum system prevents us from seeing a reliable measurement. We call this a readout error. The effects of noise and errors are modeled via the detection rate.
+## Defensas, medición, y error
+El proceso de encontrar defensas orbitales al navegar la galaxia Entanglion es análogoa realizar una medición clásica (también conocida como una medición Z) sobre el estado cuántico. Adicionalmente, el acto de recolectar un componente cuántico es análogo a realizar una medición de entrelazamiento, también conocida como un [prueba de Bell](https://en.wikipedia.org/wiki/Bell_test_experiments). A veces, el ruido en el sistema cuántico no nos permite ver una medición confiable. Llamamos a esto error en la lectura. Los efectos del ruido y los errores son modelados a través del nivel de detección.
 
-## Additional resources
-We recommend a few resources for learning more about quantum computing.
+## Recursos adicionales
+Recomendamos algunos recursos para aprender más acerca de computación cuántica.
 
 - [IBM Q Experience Beginner's Guide](http://ibm.biz/qx-guide) by IBM Research
 - [Q is for Quantum](http://a.co/iJbiNS8) by T. Rudolph
